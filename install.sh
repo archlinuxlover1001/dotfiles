@@ -15,6 +15,7 @@ if [[ $answer == 'y' ]]; then
     cp -r ~/dotfiles/wal ~/.cache/
     cp -r ~/dotfiles/wofi ~/.config/
     cp ~/dotfiles/.zshrc ~/
+    cp -r ~/dotfiles/neofetch ~/.config/
     echo "Installation complete."
     reboot
 elif [[ $answer == 'n' ]]; then
