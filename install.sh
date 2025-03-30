@@ -4,7 +4,7 @@ echo "Are you sure you want to install? It is pretty bad, like it doesn't even h
 
 
 if [[ $answer == 'y' ]]; then
-    yay -S pywal swaync code spotify vesktop wofi neofetch tty-clock    
+    yay -S pywal swaync code spotify vesktop wofi neofetch tty-clock swww  
     sudo pacman -S cmatrix cbonsai 
     
     
