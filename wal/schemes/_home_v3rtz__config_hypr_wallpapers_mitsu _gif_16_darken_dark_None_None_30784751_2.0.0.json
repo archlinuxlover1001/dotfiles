@@ -1,0 +1,28 @@
+{
+    "checksum": "4ca5b7f8e55a6b18c0a38a1a583a0ada",
+    "wallpaper": "/home/v3rtz/.config/hypr/wallpapers/mitsu .gif",
+    "alpha": "100",
+    "special": {
+        "background": "#0B0D17",
+        "foreground": "#c2c2c5",
+        "cursor": "#c2c2c5"
+    },
+    "colors": {
+        "color0": "#0B0D17",
+        "color1": "#0f121d",
+        "color2": "#10121c",
+        "color3": "#10131d",
+        "color4": "#12141e",
+        "color5": "#131620",
+        "color6": "#181720",
+        "color7": "#8e9098",
+        "color8": "#595c6e",
+        "color9": "#151927",
+        "color10": "#161926",
+        "color11": "#161A27",
+        "color12": "#181B28",
+        "color13": "#1A1E2B",
+        "color14": "#201F2B",
+        "color15": "#c2c2c5"
+    }
+}

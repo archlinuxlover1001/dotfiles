@@ -1,0 +1,28 @@
+{
+    "checksum": "92767c37f5aa8c248e7d4ccd4e3dca4b",
+    "wallpaper": "/home/v3rtz/.config/hypr/wallpapers/Monocrome Map.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#010101",
+        "foreground": "#bfbfbf",
+        "cursor": "#bfbfbf"
+    },
+    "colors": {
+        "color0": "#010101",
+        "color1": "#4c4c4c",
+        "color2": "#575757",
+        "color3": "#787878",
+        "color4": "#9b9b9b",
+        "color5": "#aeaeae",
+        "color6": "#b7b7b7",
+        "color7": "#918686",
+        "color8": "#615050",
+        "color9": "#666666",
+        "color10": "#757575",
+        "color11": "#A1A1A1",
+        "color12": "#CFCFCF",
+        "color13": "#E8E8E8",
+        "color14": "#F4F4F4",
+        "color15": "#bfbfbf"
+    }
+}

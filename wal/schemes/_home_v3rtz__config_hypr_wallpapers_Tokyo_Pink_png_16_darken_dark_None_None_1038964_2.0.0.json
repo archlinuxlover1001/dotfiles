@@ -1,0 +1,28 @@
+{
+    "checksum": "f908411d8b1f5bcaa90f438105d6d94f",
+    "wallpaper": "/home/v3rtz/.config/hypr/wallpapers/Tokyo_Pink.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1016",
+        "foreground": "#c3c3c4",
+        "cursor": "#c3c3c4"
+    },
+    "colors": {
+        "color0": "#0f1016",
+        "color1": "#455c8a",
+        "color2": "#7b5172",
+        "color3": "#a25874",
+        "color4": "#b05971",
+        "color5": "#9b5b7e",
+        "color6": "#7d5d91",
+        "color7": "#8f8f99",
+        "color8": "#5a5a6f",
+        "color9": "#5C7BB9",
+        "color10": "#A46C99",
+        "color11": "#D9769B",
+        "color12": "#EB7797",
+        "color13": "#CF7AA9",
+        "color14": "#A77DC2",
+        "color15": "#c3c3c4"
+    }
+}

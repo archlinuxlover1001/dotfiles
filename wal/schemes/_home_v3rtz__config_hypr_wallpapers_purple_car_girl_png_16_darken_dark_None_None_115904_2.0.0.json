@@ -1,0 +1,28 @@
+{
+    "checksum": "e2274c3f5719c4df6347b956425f45f6",
+    "wallpaper": "/home/v3rtz/.config/hypr/wallpapers/purple_car_girl.png",
+    "alpha": "100",
+    "special": {
+        "background": "#12151f",
+        "foreground": "#c3c4c7",
+        "cursor": "#c3c4c7"
+    },
+    "colors": {
+        "color0": "#12151f",
+        "color1": "#5e4f79",
+        "color2": "#695887",
+        "color3": "#725e91",
+        "color4": "#756094",
+        "color5": "#7d669d",
+        "color6": "#8a70ad",
+        "color7": "#91939c",
+        "color8": "#5e6272",
+        "color9": "#7E6AA2",
+        "color10": "#8D76B4",
+        "color11": "#997EC2",
+        "color12": "#9D81C6",
+        "color13": "#A788D2",
+        "color14": "#B996E7",
+        "color15": "#c3c4c7"
+    }
+}

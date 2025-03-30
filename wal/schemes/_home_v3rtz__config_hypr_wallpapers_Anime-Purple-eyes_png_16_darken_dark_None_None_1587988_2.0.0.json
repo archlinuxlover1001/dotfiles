@@ -1,0 +1,28 @@
+{
+    "checksum": "79902fd311752d14feffa3185af2be0e",
+    "wallpaper": "/home/v3rtz/.config/hypr/wallpapers/Anime-Purple-eyes.png",
+    "alpha": "100",
+    "special": {
+        "background": "#020104",
+        "foreground": "#bfbfc0",
+        "cursor": "#bfbfc0"
+    },
+    "colors": {
+        "color0": "#020104",
+        "color1": "#2f2160",
+        "color2": "#39276c",
+        "color3": "#442d78",
+        "color4": "#46367b",
+        "color5": "#5a3c95",
+        "color6": "#7043a5",
+        "color7": "#8d8792",
+        "color8": "#5a5063",
+        "color9": "#3F2D81",
+        "color10": "#4C3591",
+        "color11": "#5B3CA1",
+        "color12": "#5E48A5",
+        "color13": "#7850C7",
+        "color14": "#965ADD",
+        "color15": "#bfbfc0"
+    }
+}

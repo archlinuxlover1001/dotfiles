@@ -1,0 +1,28 @@
+{
+    "checksum": "a2b6954ca6a6025f5babbd51c60fd051",
+    "wallpaper": "/home/v3rtz/.config/hypr/wallpapers/5.png",
+    "alpha": "100",
+    "special": {
+        "background": "#090138",
+        "foreground": "#c1bfcd",
+        "cursor": "#c1bfcd"
+    },
+    "colors": {
+        "color0": "#090138",
+        "color1": "#07725a",
+        "color2": "#489049",
+        "color3": "#74755a",
+        "color4": "#213e6c",
+        "color5": "#248288",
+        "color6": "#7ea58c",
+        "color7": "#95939d",
+        "color8": "#636075",
+        "color9": "#0A9978",
+        "color10": "#61C162",
+        "color11": "#9B9D79",
+        "color12": "#2D5390",
+        "color13": "#30AEB6",
+        "color14": "#A9DCBB",
+        "color15": "#c1bfcd"
+    }
+}

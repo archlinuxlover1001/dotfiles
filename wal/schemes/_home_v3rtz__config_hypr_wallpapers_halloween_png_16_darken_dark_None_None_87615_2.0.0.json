@@ -1,0 +1,28 @@
+{
+    "checksum": "27c26a5a8c7c49d8274202f74c2d4f49",
+    "wallpaper": "/home/v3rtz/.config/hypr/wallpapers/halloween.png",
+    "alpha": "100",
+    "special": {
+        "background": "#060505",
+        "foreground": "#c0c0c0",
+        "cursor": "#c0c0c0"
+    },
+    "colors": {
+        "color0": "#060505",
+        "color1": "#80252b",
+        "color2": "#6c4521",
+        "color3": "#714440",
+        "color4": "#a8454c",
+        "color5": "#4e6948",
+        "color6": "#756a3f",
+        "color7": "#938888",
+        "color8": "#655353",
+        "color9": "#AB323A",
+        "color10": "#905C2C",
+        "color11": "#975B56",
+        "color12": "#E05D66",
+        "color13": "#698D60",
+        "color14": "#9C8E54",
+        "color15": "#c0c0c0"
+    }
+}

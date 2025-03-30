@@ -1,0 +1,28 @@
+{
+    "checksum": "bbb58b9f4161c3787e47e5fce92c4a83",
+    "wallpaper": "/home/v3rtz/.config/hypr/wallpapers/dark flowers or something idk TwT.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0c13",
+        "foreground": "#c2c2c4",
+        "cursor": "#c2c2c4"
+    },
+    "colors": {
+        "color0": "#0c0c13",
+        "color1": "#2d3a4b",
+        "color2": "#323146",
+        "color3": "#303048",
+        "color4": "#31364d",
+        "color5": "#333c50",
+        "color6": "#323c51",
+        "color7": "#8d8d97",
+        "color8": "#59596c",
+        "color9": "#3D4E64",
+        "color10": "#43425E",
+        "color11": "#404060",
+        "color12": "#424867",
+        "color13": "#45506B",
+        "color14": "#43506D",
+        "color15": "#c2c2c4"
+    }
+}

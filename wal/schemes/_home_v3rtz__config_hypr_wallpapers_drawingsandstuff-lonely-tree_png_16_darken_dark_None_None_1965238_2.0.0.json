@@ -1,0 +1,28 @@
+{
+    "checksum": "3aba74d8f8925e2a64031bc14fb7a580",
+    "wallpaper": "/home/v3rtz/.config/hypr/wallpapers/drawingsandstuff-lonely-tree.png",
+    "alpha": "100",
+    "special": {
+        "background": "#121522",
+        "foreground": "#c3c4c7",
+        "cursor": "#c3c4c7"
+    },
+    "colors": {
+        "color0": "#121522",
+        "color1": "#6b5969",
+        "color2": "#995d61",
+        "color3": "#57667e",
+        "color4": "#756f7d",
+        "color5": "#a57c7a",
+        "color6": "#808695",
+        "color7": "#92939c",
+        "color8": "#5e6274",
+        "color9": "#8F778D",
+        "color10": "#CC7D82",
+        "color11": "#7588A8",
+        "color12": "#9D95A7",
+        "color13": "#DDA6A3",
+        "color14": "#ABB3C7",
+        "color15": "#c3c4c7"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "f3a740262eaee3eef27201237cfe19c0",
+    "wallpaper": "/home/v3rtz/.config/hypr/wallpapers/Dreamy-Aesthetic-Home-Under-Moonlight.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0C1932",
+        "foreground": "#c2c5cb",
+        "cursor": "#c2c5cb"
+    },
+    "colors": {
+        "color0": "#0C1932",
+        "color1": "#4b438d",
+        "color2": "#6c3c6e",
+        "color3": "#7b3f74",
+        "color4": "#b93f68",
+        "color5": "#ad4671",
+        "color6": "#8d4f9f",
+        "color7": "#94989e",
+        "color8": "#626977",
+        "color9": "#645ABC",
+        "color10": "#915193",
+        "color11": "#A4559B",
+        "color12": "#F7548B",
+        "color13": "#E75E97",
+        "color14": "#BD6AD5",
+        "color15": "#c2c5cb"
+    }
+}

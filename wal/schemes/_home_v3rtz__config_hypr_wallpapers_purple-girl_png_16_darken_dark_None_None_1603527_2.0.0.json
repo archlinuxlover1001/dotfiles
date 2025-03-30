@@ -1,0 +1,28 @@
+{
+    "checksum": "01c4fb868664a065bc50e26cd147f99f",
+    "wallpaper": "/home/v3rtz/.config/hypr/wallpapers/purple-girl.png",
+    "alpha": "100",
+    "special": {
+        "background": "#2f2836",
+        "foreground": "#cbc9cc",
+        "cursor": "#cbc9cc"
+    },
+    "colors": {
+        "color0": "#2f2836",
+        "color1": "#725195",
+        "color2": "#7a5c9c",
+        "color3": "#786688",
+        "color4": "#8168a2",
+        "color5": "#8b6faa",
+        "color6": "#9782ae",
+        "color7": "#a09ca5",
+        "color8": "#766b83",
+        "color9": "#986CC7",
+        "color10": "#A37BD1",
+        "color11": "#A089B6",
+        "color12": "#AC8BD9",
+        "color13": "#BA95E3",
+        "color14": "#CAAEE8",
+        "color15": "#cbc9cc"
+    }
+}

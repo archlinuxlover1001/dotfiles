@@ -1,0 +1,28 @@
+{
+    "checksum": "b490786ab7492a299c034c13a502b14b",
+    "wallpaper": "/home/v3rtz/.config/hypr/wallpapers/Moon Night.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B0D35",
+        "foreground": "#c2c2cc",
+        "cursor": "#c2c2cc"
+    },
+    "colors": {
+        "color0": "#0B0D35",
+        "color1": "#362840",
+        "color2": "#161465",
+        "color3": "#19146b",
+        "color4": "#201c69",
+        "color5": "#201a79",
+        "color6": "#3c3289",
+        "color7": "#95969f",
+        "color8": "#626378",
+        "color9": "#493656",
+        "color10": "#1E1B87",
+        "color11": "#221B8F",
+        "color12": "#2B268D",
+        "color13": "#2B23A2",
+        "color14": "#5043B7",
+        "color15": "#c2c2cc"
+    }
+}

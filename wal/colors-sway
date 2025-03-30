@@ -1,0 +1,21 @@
+set $wallpaper /home/v3rtz/.config/hypr/wallpapers/anime_skyline.png
+
+set $background #081430
+set $foreground #c1c4cb
+
+set $color0 #081430
+set $color1 #6e5787
+set $color2 #7c507b
+set $color3 #a75476
+set $color4 #745796
+set $color5 #5760a6
+set $color6 #b0697f
+set $color7 #92969d
+set $color8 #606675
+set $color9 #9375B5
+set $color10 #A66BA4
+set $color11 #DF719E
+set $color12 #9B74C9
+set $color13 #7581DE
+set $color14 #EB8DAA
+set $color15 #c1c4cb

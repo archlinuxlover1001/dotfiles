@@ -1,0 +1,28 @@
+{
+    "checksum": "8c277cd9a9b10d3dd44fa88f3d1889c1",
+    "wallpaper": "/home/v3rtz/.config/hypr/wallpapers/forest.png",
+    "alpha": "100",
+    "special": {
+        "background": "#131215",
+        "foreground": "#c4c3c4",
+        "cursor": "#c4c3c4"
+    },
+    "colors": {
+        "color0": "#131215",
+        "color1": "#153a53",
+        "color2": "#1e3953",
+        "color3": "#40434d",
+        "color4": "#846655",
+        "color5": "#1e4264",
+        "color6": "#184e69",
+        "color7": "#8f8f99",
+        "color8": "#645a6f",
+        "color9": "#1D4E6F",
+        "color10": "#284D6F",
+        "color11": "#565A67",
+        "color12": "#B08872",
+        "color13": "#295886",
+        "color14": "#21698C",
+        "color15": "#c4c3c4"
+    }
+}

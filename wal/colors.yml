@@ -1,0 +1,24 @@
+wallpaper: "/home/v3rtz/.config/hypr/wallpapers/anime_skyline.png"
+
+special:
+    background: "#081430"
+    foreground: "#c1c4cb"
+    cursor: "#c1c4cb"
+
+colors:
+    color0: "#081430"
+    color1: "#6e5787"
+    color2: "#7c507b"
+    color3: "#a75476"
+    color4: "#745796"
+    color5: "#5760a6"
+    color6: "#b0697f"
+    color7: "#92969d"
+    color8: "#606675"
+    color9: "#9375B5"
+    color10: "#A66BA4"
+    color11: "#DF719E"
+    color12: "#9B74C9"
+    color13: "#7581DE"
+    color14: "#EB8DAA"
+    color15: "#c1c4cb"

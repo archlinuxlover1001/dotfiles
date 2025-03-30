@@ -1,0 +1,28 @@
+{
+    "checksum": "1d639d213d2e53cc987b491da56a2952",
+    "wallpaper": "/home/v3rtz/.config/hypr/wallpapers/kuldarleement-stellar-collision.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#081753",
+        "foreground": "#c1c5d4",
+        "cursor": "#c1c5d4"
+    },
+    "colors": {
+        "color0": "#081753",
+        "color1": "#21396a",
+        "color2": "#184c81",
+        "color3": "#42486e",
+        "color4": "#145c91",
+        "color5": "#6f536b",
+        "color6": "#15729c",
+        "color7": "#9b9da4",
+        "color8": "#6a6f82",
+        "color9": "#2D4C8E",
+        "color10": "#2066AC",
+        "color11": "#596093",
+        "color12": "#1B7BC2",
+        "color13": "#956F8F",
+        "color14": "#1D99D0",
+        "color15": "#c1c5d4"
+    }
+}
